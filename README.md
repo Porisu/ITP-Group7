@@ -4,8 +4,8 @@
 Enter this code to create a virtual environment, then use pip install to install all the libraries in the `requirements.txt`:
 
 python -m venv venv_env
-pip install -r requirements.txt
 
+pip install -r requirements.txt
 
 Next create a folder called 'models' and download these 2 models from huggingface and place it in the models folder
 https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q5_K_M.gguf
