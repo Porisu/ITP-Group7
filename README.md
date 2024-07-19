@@ -17,6 +17,7 @@ https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-
 In the chromaDB, there is a json file called prompt_template.json, the format of it is "question:response"
 
 An example in the json file would be:
+
 {
   "What is a Goods Receiving Note (GRN)?": "A Goods Receiving Note (GRN) is a document used by businesses to confirm the receipt of goods from suppliers. It details the products received, the quantity, and the condition of the goods upon arrival."
 }
