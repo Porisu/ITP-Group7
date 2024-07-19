@@ -1,7 +1,7 @@
 # DSC2204-Group7-ITP-Project
 
 ## 1. Installation Guide
-Enter this code to create a virtual environment, then use pip install to install all the libraries in the `requirements.txt`:
+Enter this code to create a virtual environment, then use pip install to install all the libraries in the `requirements.txt`
 
 python -m venv venv_env
 
