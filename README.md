@@ -12,7 +12,7 @@ https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-
 https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q3_K_S.gguf
 
 
-2.Prompt Template
+##2.Prompt Template
 In the chromaDB, there is a json file called prompt_template.json, the format of it is "question:response"
 
 An example in the json file would be:
