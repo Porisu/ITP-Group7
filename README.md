@@ -2,7 +2,9 @@
 
 ## 1. Installation Guide
 Enter this code to create a virtual environment, then use pip install to install all the libraries in the `requirements.txt`:
+
 python -m venv venv_env
+
 pip install -r requirements.txt
 
 
